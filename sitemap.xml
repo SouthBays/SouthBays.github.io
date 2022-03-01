@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://southbays.github.io/archives/index.html</loc>
-    
-    <lastmod>2022-02-27T14:10:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://southbays.github.io/categories/index.html</loc>
     
     <lastmod>2022-02-27T14:10:01.000Z</lastmod>
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://southbays.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-02-27T14:10:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://southbays.github.io/archives/index.html</loc>
     
     <lastmod>2022-02-27T14:10:01.000Z</lastmod>
     
