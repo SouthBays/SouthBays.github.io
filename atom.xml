@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SouthBays</title>
+  
+  <subtitle>poems</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://southbays.github.io/"/>
+  <updated>2022-03-01T15:36:36.000Z</updated>
+  <id>https://southbays.github.io/</id>
+  
+  <author>
+    <name>shakeryoung</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>standing-at-thirty</title>
+    <link href="https://southbays.github.io/2022/02/26/standing-at-thirty/"/>
+    <id>https://southbays.github.io/2022/02/26/standing-at-thirty/</id>
+    <published>2022-02-25T21:27:31.000Z</published>
+    <updated>2022-03-01T15:36:36.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如果有一种人生叫成功，那一定是能按照自己的计划去铺展未来。&lt;/p&gt;
+&lt;p&gt;我的人生，就是能够选择自己擅长的事情，一步步积累成就感。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;『无题』
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://southbays.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="博客" scheme="https://southbays.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
