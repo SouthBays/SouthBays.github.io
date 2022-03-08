@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://southbays.github.io/"/>
-  <updated>2022-03-08T11:59:52.794Z</updated>
+  <updated>2022-03-08T15:36:58.090Z</updated>
   <id>https://southbays.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://southbays.github.io/2022/02/26/san-shi-er-li/"/>
     <id>https://southbays.github.io/2022/02/26/san-shi-er-li/</id>
     <published>2022-02-25T21:27:31.000Z</published>
-    <updated>2022-03-08T11:59:52.794Z</updated>
+    <updated>2022-03-08T15:36:58.090Z</updated>
     
     <summary type="html">
     
@@ -48,11 +48,11 @@
   </entry>
   
   <entry>
-    <title>句子嵌入向量的简单对比学习方法</title>
-    <link href="https://southbays.github.io/2022/02/10/ju-zi-qian-ru-xiang-liang-de-jian-dan-dui-bi-xue-xi-fang-fa/"/>
-    <id>https://southbays.github.io/2022/02/10/ju-zi-qian-ru-xiang-liang-de-jian-dan-dui-bi-xue-xi-fang-fa/</id>
-    <published>2022-02-09T21:27:31.000Z</published>
-    <updated>2022-03-08T11:59:52.794Z</updated>
+    <title>NLP对比学习论文笔记</title>
+    <link href="https://southbays.github.io/2022/02/10/nlp-dui-bi-xue-xi-lun-wen-xue-xi/"/>
+    <id>https://southbays.github.io/2022/02/10/nlp-dui-bi-xue-xi-lun-wen-xue-xi/</id>
+    <published>2022-02-10T07:27:31.000Z</published>
+    <updated>2022-03-08T15:36:58.086Z</updated>
     
     <summary type="html">
     
@@ -60,7 +60,7 @@
       
         
         
-          &lt;h1 id=&quot;pretraining-model-constractive-learning-SoTA-sentence-embedding！&quot;&gt;&lt;a
+          &lt;h1 id=&quot;一、预训练-对比学习-SOTA句向量？&quot;&gt;&lt;a href=&quot;#一、预训练-对比学习-SOTA句向量？&quot; class=&quot;headerlink&quot;
         
       
     
@@ -74,11 +74,66 @@
   </entry>
   
   <entry>
+    <title>python搭起鹊桥！cuda和tensorrt终相会</title>
+    <link href="https://southbays.github.io/2021/08/22/tensorrt-bu-shu-shi-zhan/"/>
+    <id>https://southbays.github.io/2021/08/22/tensorrt-bu-shu-shi-zhan/</id>
+    <published>2021-08-22T14:28:31.000Z</published>
+    <updated>2022-03-08T15:36:58.086Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;经过几天的奋战，终于完成tensorrt的官方文档的梳理并实现了基于pycuda的后端部署，&lt;/p&gt;
+&lt;p&gt;因为python相关资料确实少，所以想分享一下自己的经验。首先总结一下tensorrt的三个特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;速度就是正义：GPU相对加速50%以上。半
+        
+      
+    
+    </summary>
+    
+      <category term="深度实战" scheme="https://southbays.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AE%9E%E6%88%98/"/>
+    
+    
+      <category term="算法拾贝" scheme="https://southbays.github.io/tags/%E7%AE%97%E6%B3%95%E6%8B%BE%E8%B4%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>混合精度，用好loss scale让pytorch凌波微步</title>
+    <link href="https://southbays.github.io/2021/08/03/hun-he-jing-du-xun-lian-shi-zhan/"/>
+    <id>https://southbays.github.io/2021/08/03/hun-he-jing-du-xun-lian-shi-zhan/</id>
+    <published>2021-08-03T13:41:31.000Z</published>
+    <updated>2022-03-08T15:36:58.086Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;书到用时方恨少，训练慢时恨卡少。不过混合精度训练可以带来30%以上的up体验&lt;a href=&quot;https://arxiv.org/pdf/1710.03740.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;(Mixed Precison
+        
+      
+    
+    </summary>
+    
+      <category term="深度实战" scheme="https://southbays.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AE%9E%E6%88%98/"/>
+    
+    
+      <category term="算法拾贝" scheme="https://southbays.github.io/tags/%E7%AE%97%E6%B3%95%E6%8B%BE%E8%B4%9D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>人生最重要的三十年</title>
     <link href="https://southbays.github.io/2020/10/30/ren-sheng-zui-chong-yao-de-san-shi-nian/"/>
     <id>https://southbays.github.io/2020/10/30/ren-sheng-zui-chong-yao-de-san-shi-nian/</id>
     <published>2020-10-30T05:15:00.000Z</published>
-    <updated>2022-03-08T11:59:52.794Z</updated>
+    <updated>2022-03-08T15:36:58.086Z</updated>
     
     <summary type="html">
     

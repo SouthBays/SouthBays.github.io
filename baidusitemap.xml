@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://southbays.github.io/2022/02/26/san-shi-er-li/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>  <url>
+    <loc>https://southbays.github.io/2022/02/10/nlp-dui-bi-xue-xi-lun-wen-xue-xi/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>  <url>
+    <loc>https://southbays.github.io/2021/08/22/tensorrt-bu-shu-shi-zhan/</loc>
+    <lastmod>2022-03-08</lastmod>
+  </url>  <url>
     <loc>https://southbays.github.io/2020/10/30/ren-sheng-zui-chong-yao-de-san-shi-nian/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>  <url>
-    <loc>https://southbays.github.io/2022/02/10/ju-zi-qian-ru-xiang-liang-de-jian-dan-dui-bi-xue-xi-fang-fa/</loc>
-    <lastmod>2022-03-08</lastmod>
-  </url>  <url>
-    <loc>https://southbays.github.io/2022/02/26/san-shi-er-li/</loc>
+    <loc>https://southbays.github.io/2021/08/03/hun-he-jing-du-xun-lian-shi-zhan/</loc>
     <lastmod>2022-03-08</lastmod>
   </url>
 </urlset>
