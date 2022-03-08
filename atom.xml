@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://southbays.github.io/"/>
-  <updated>2022-03-01T15:36:36.000Z</updated>
+  <updated>2022-03-08T11:59:52.794Z</updated>
   <id>https://southbays.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>standing-at-thirty</title>
-    <link href="https://southbays.github.io/2022/02/26/standing-at-thirty/"/>
-    <id>https://southbays.github.io/2022/02/26/standing-at-thirty/</id>
+    <title>三十而立</title>
+    <link href="https://southbays.github.io/2022/02/26/san-shi-er-li/"/>
+    <id>https://southbays.github.io/2022/02/26/san-shi-er-li/</id>
     <published>2022-02-25T21:27:31.000Z</published>
-    <updated>2022-03-01T15:36:36.000Z</updated>
+    <updated>2022-03-08T11:59:52.794Z</updated>
     
     <summary type="html">
     
@@ -33,6 +33,63 @@
 &lt;p&gt;我的人生，就是能够选择自己擅长的事情，一步步积累成就感。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;『无题』
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://southbays.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="诗歌" scheme="https://southbays.github.io/categories/%E9%9A%8F%E7%AC%94/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+      <category term="博客" scheme="https://southbays.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>句子嵌入向量的简单对比学习方法</title>
+    <link href="https://southbays.github.io/2022/02/10/ju-zi-qian-ru-xiang-liang-de-jian-dan-dui-bi-xue-xi-fang-fa/"/>
+    <id>https://southbays.github.io/2022/02/10/ju-zi-qian-ru-xiang-liang-de-jian-dan-dui-bi-xue-xi-fang-fa/</id>
+    <published>2022-02-09T21:27:31.000Z</published>
+    <updated>2022-03-08T11:59:52.794Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;pretraining-model-constractive-learning-SoTA-sentence-embedding！&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="论文学习" scheme="https://southbays.github.io/categories/%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="算法拾贝" scheme="https://southbays.github.io/tags/%E7%AE%97%E6%B3%95%E6%8B%BE%E8%B4%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生最重要的三十年</title>
+    <link href="https://southbays.github.io/2020/10/30/ren-sheng-zui-chong-yao-de-san-shi-nian/"/>
+    <id>https://southbays.github.io/2020/10/30/ren-sheng-zui-chong-yao-de-san-shi-nian/</id>
+    <published>2020-10-30T05:15:00.000Z</published>
+    <updated>2022-03-08T11:59:52.794Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;作为一个25岁还在为未来发愁的职前青年，看到一片博文深有感触，职业生涯也许就是在这黄金三十年里面，简单的梳理了一下思路：&lt;/p&gt;
+&lt;p&gt;第一个十年是积累的十年。&lt;/p&gt;
+&lt;p&gt;最开始的起点很重要，尽量选择一个可以看清前景的行业，当然如果是行业食物链中越往上越好。&lt;/p&gt;
+&lt;
         
       
     
